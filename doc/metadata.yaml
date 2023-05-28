@@ -1,0 +1,12 @@
+description: null
+github_branch: GSENSE01A
+github_repo: GSENSE01
+github_url: https://github.com/mlab-modules/GSENSE01
+homepage: false
+images:
+- doc/img/GSENSE01A_top_small.jpg
+- doc/src/GSENSE01A_top_big.jpg
+- doc/img/GSENSE01A_QRcode.png
+mark: 50
+tags: []
+title: GSENSE01
